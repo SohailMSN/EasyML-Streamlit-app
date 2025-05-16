@@ -11,7 +11,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 
 # Configure page
 st.set_page_config(
-    page_title="EasyML MADE BY Samad,Izza and Hashir",
+    page_title="EasyML MADE BY Sohail,Ayesha,Moosa",
     page_icon="☠️",
     layout="wide",
     initial_sidebar_state="expanded"
