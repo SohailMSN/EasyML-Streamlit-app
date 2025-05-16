@@ -57,7 +57,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Special thanks to all contributors who have helped make this project possible.
 
-![pngtree-d-rendering-of-an-adorable-ai-robot-reading-a-book-depicting-picture-image_5584602](https://github.com/user-attachments/assets/c35c09b8-9f8f-47f2-95a8-e92a959ddf97)
+
 
 Multi-Themed Financial Machine Learning
 This is a Machine Learning project developed for financial data analysis, which includes multiple interactive themes for a more engaging experience. The project utilizes Streamlit for the web interface and provides features like data uploading, machine learning model training, and visualization of predictions.
